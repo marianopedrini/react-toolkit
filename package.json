@@ -1,5 +1,5 @@
 {
-  "name": "polymorphic-components",
+  "name": "react-toolkit",
   "version": "1.0.0",
   "description": "A collection of **polymorphic React components** built with TypeScript, focused on **flexibility**, **reusability**, and **strong type safety**.",
   "main": "index.js",
