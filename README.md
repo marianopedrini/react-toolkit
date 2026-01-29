@@ -1,27 +1,27 @@
 # React Toolkit
 
-A personal collection of **reusable React components**, **patterns**, **hooks**, and **utilities** built with TypeScript.
+Coleccion personal de **componentes React reutilizables**, **patrones**, **hooks** y **utilidades** construidos con TypeScript.
 
 ---
 
-## What's Inside
+## Contenido
 
-- **Components** — Reusable UI components with strong type safety (e.g., polymorphic components)
-- **Hooks** — Custom React hooks for common logic
-- **Patterns** — Proven React patterns and abstractions
-- **Utilities** — Helper functions and TypeScript utilities
+- **Components** — Componentes UI reutilizables con tipado fuerte (ej. componentes polimorficos)
+- **Hooks** — Hooks personalizados para logica comun
+- **Patterns** — Patrones y abstracciones probadas en React
+- **Utilities** — Funciones auxiliares y utilidades TypeScript
 
 ---
 
-## Folder Structure
+## Estructura de carpetas
 
 ```
 src/
-├── components/       # Reusable UI components
+├── components/       # Componentes UI reutilizables
 │   ├── button.tsx
 │   └── heading.tsx
-├── hooks/            # Custom React hooks
-├── patterns/         # React patterns and abstractions
-└── lib/              # Utility functions and helpers
+├── hooks/            # Hooks personalizados
+├── patterns/         # Patrones y abstracciones
+└── lib/              # Funciones auxiliares y helpers
     └── utils.ts
 ```
